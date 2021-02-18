@@ -1,2 +1,2 @@
 # alGOrithm
-Lerning Algorithm with GO from courses.calhoun.io
+Lerning Algorithm with GO from algorithmswithgo.com
